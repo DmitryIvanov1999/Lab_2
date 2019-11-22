@@ -1,0 +1,5 @@
+C++ is a good language
+It's a simple text. WORD.
+
+This text will not appear in console window.
+*This text wont't appear too*
