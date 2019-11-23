@@ -1,5 +1,7 @@
-C++ is a good language
-It's a simple text. WORD.
-
-This text will not appear in console window.
-*This text wont't appear too*
+C++ is a good language, because it's interesting and powerful.
+A new sentence...
+And another!
+/*-----It will not appear in console window------*/
+Text 1
+Text 2...
+Text 3?
